@@ -1,5 +1,5 @@
 ---
-collection: publications
+
 ---
 
 - **Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization**

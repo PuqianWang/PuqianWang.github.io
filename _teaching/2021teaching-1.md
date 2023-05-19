@@ -9,5 +9,5 @@ venue: "UW Madison"
 ---
 TA @ UW madison
 
-CS 577 Introduction of Algorithms, 2021 Fall
-CS 726 Nonlinear Optimization I, 2022 Fall
+- CS 577 Introduction of Algorithms, 2021 Fall
+- CS 726 Nonlinear Optimization I, 2022 Fall

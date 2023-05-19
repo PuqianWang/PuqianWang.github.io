@@ -9,8 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+- **Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization**
+  
+  Jelena Diakonikolas, Puqian Wang,  *SIAM Journal on Optimization, 2022*, [arxiv](https://arxiv.org/abs/2101.12101)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Puqian Wang, a CS PhD student at University of Wisconsin - Madison, since September 2021. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by prof. Jelena Diakonikolas. Additionally, I have the privilege of collaborating with Prof. Ilias Diakonikolas and other amazing collaboraters. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with prof. Congying Han at UCAS during my undergraduate study.
+Hi, my name is Puqian Wang, a CS PhD student at the University of Wisconsin - Madison, since September 2021. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with Prof. Congying Han at UCAS during my undergraduate study.
 
 
 Publication
@@ -18,6 +18,9 @@ Publication
   
   Jelena Diakonikolas, Puqian Wang,  *SIAM Journal on Optimization, 2022*, [arxiv](https://arxiv.org/abs/2101.12101)
 
+- **Robustly Learning a Single Neuron via Sharpness**
+  
+  Puqian Wang*, Nikos Zarifis*, Ilias DIakonikolas, Jelena Diakonikolas, *ICML2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
 
 
 Teaching

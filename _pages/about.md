@@ -20,7 +20,7 @@ Publication
 
 - **Robustly Learning a Single Neuron via Sharpness**
   
-  Puqian Wang\* , Nikos Zarifis\* , Ilias DIakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
+  Puqian Wang\* , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
 
 
 Teaching

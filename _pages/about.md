@@ -15,11 +15,11 @@ Publication
 ======
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   
-  Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *2023*, [arxiv](https://arxiv.org/abs/2307.08438)
+  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *NeurIPS, 2023*, [arxiv](https://arxiv.org/abs/2307.08438)
 
 - **Information-Computation Tradeoffs for Learning Margin Halfspces with Random Classification Noise**
   
-  Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *COLT, 2023*, [arxiv](https://arxiv.org/abs/2306.16352)
+  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *COLT, 2023*, [arxiv](https://arxiv.org/abs/2306.16352)
 
 - **Robustly Learning a Single Neuron via Sharpness**
   

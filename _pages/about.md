@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Puqian Wang, a 3rd-year CS PhD student at the University of Wisconsin - Madison. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with Prof. Congying Han at UCAS during my undergraduate study.
+I am a 3rd-year CS PhD student at the University of Wisconsin - Madison. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with Prof. Congying Han at UCAS during my undergraduate study.
 
 
 Publication
 ======
+- **Robustly Learning Single-Index Models via Alignment Sharpness**
+
+  Nikos Zarifis\*, Puqian Wang\*, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
+
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   
   ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *NeurIPS, 2023*, [arxiv](https://arxiv.org/abs/2307.08438)

@@ -15,7 +15,7 @@ Publication
 ======
 - **Robustly Learning Single-Index Models via Alignment Sharpness**
 
-  Nikos Zarifis\*, Puqian Wang\*, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
+  Nikos Zarifis\*, Puqian Wang\*, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
 
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   

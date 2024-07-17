@@ -33,7 +33,9 @@ Publication
   
   Jelena Diakonikolas, Puqian Wang,  *SIAM Journal on Optimization, 2022*, [arxiv](https://arxiv.org/abs/2101.12101)
 
-
+Talks
+====
+International Symposium on Mathematical Programming, July 21-16, Montreal, Q.C., Cananda
 
 Teaching
 ====

@@ -35,7 +35,7 @@ Publication
 
 Talks
 ====
-International Symposium on Mathematical Programming, July 21-16, Montreal, Q.C., Cananda
+International Symposium on Mathematical Programming, July 16-21, Montreal, Q.C., Cananda
 
 Teaching
 ====

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year CS PhD student at the University of Wisconsin - Madison. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with Prof. Congying Han at UCAS during my undergraduate study.
+I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University, where I had the opportunity to be advised by Prof. Guanghui Wang. I also worked with Prof. Congying Han at UCAS during my undergraduate study.
 
 
 Publication
@@ -35,7 +35,8 @@ Publication
 
 Talks
 ====
-International Symposium on Mathematical Programming, July 16-21, Montreal, Q.C., Cananda
+60th Annual Allerton Conference on Communication, Control, and Computing, September 2024, Urbana-Champaign, IL, US
+International Symposium on Mathematical Programming, July 2024, Montreal, Q.C., Cananda
 
 Teaching
 ====

@@ -13,6 +13,10 @@ I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My rese
 
 Publication
 ======
+- **Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**
+
+  Puqian Wang, Nikos Zarifis, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2024*
+
 - **Robustly Learning Single-Index Models via Alignment Sharpness**
 
   Nikos Zarifis\*, Puqian Wang\*, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
@@ -35,8 +39,9 @@ Publication
 
 Talks
 ====
-- 60th Annual Allerton Conference on Communication, Control, and Computing, September 2024, Urbana-Champaign, IL, US
-- International Symposium on Mathematical Programming, July 2024, Montreal, Q.C., Cananda
+- *Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models*, IFDS 2024 Meeting, October 2024, UW Madison
+- *Robustly Learning Single-Index Models via Alignment Sharpness*, 60th Annual Allerton Conference on Communication, Control, and Computing, September 2024, Urbana-Champaign, IL, US
+- *Robustly Learning Single-Index Models via Alignment Sharpness*, International Symposium on Mathematical Programming, July 2024, Montreal, Q.C., Cananda
 
 Teaching
 ====

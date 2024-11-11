@@ -15,7 +15,7 @@ Publication
 ======
 - **Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**
 
-  Puqian Wang, Nikos Zarifis, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2024*
+  Puqian Wang, Nikos Zarifis, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2024*, [arxiv](https://arxiv.org/abs/2411.05708)
 
 - **Robustly Learning Single-Index Models via Alignment Sharpness**
 

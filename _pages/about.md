@@ -13,29 +13,36 @@ I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My rese
 
 Publication
 ======
+- **Robustly Learning Monotone Generalized Linear Models via Data Augmentation**
+
+  Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/abs/2502.08611)
+  (\* Equal Contribution)
+
 - **Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**
 
-  Puqian Wang, Nikos Zarifis, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2024*, [arxiv](https://arxiv.org/abs/2411.05708)
+  **Puqian Wang**, Nikos Zarifis, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2024*, [arxiv](https://arxiv.org/abs/2411.05708)
 
 - **Robustly Learning Single-Index Models via Alignment Sharpness**
 
-  Nikos Zarifis\*, Puqian Wang\*, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
+  Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
+  (\* Equal Contribution)
 
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   
-  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *NeurIPS, 2023*, [arxiv](https://arxiv.org/abs/2307.08438)
+  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, **Puqian Wang**, Nikos Zarifis, *NeurIPS, 2023*, [arxiv](https://arxiv.org/abs/2307.08438)
 
 - **Information-Computation Tradeoffs for Learning Margin Halfspces with Random Classification Noise**
   
-  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, Puqian Wang, Nikos Zarifis, *COLT, 2023*, [arxiv](https://arxiv.org/abs/2306.16352)
+  ($\alpha\beta$) Ilias Diakonikolas, Jelena Diakonikolas, Daniel M Kane, **Puqian Wang**, Nikos Zarifis, *COLT, 2023*, [arxiv](https://arxiv.org/abs/2306.16352)
 
 - **Robustly Learning a Single Neuron via Sharpness**
   
-  Puqian Wang\* , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
+  **Puqian Wang\*** , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
+ (\* Equal Contribution)
 
 - **Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization**
   
-  Jelena Diakonikolas, Puqian Wang,  *SIAM Journal on Optimization, 2022*, [arxiv](https://arxiv.org/abs/2101.12101)
+  Jelena Diakonikolas, **Puqian Wang**,  *SIAM Journal on Optimization, 2022*, [arxiv](https://arxiv.org/abs/2101.12101)
 
 Talks
 ====

@@ -17,7 +17,7 @@ Publication
 
   Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/abs/2502.08611)
 
-  ###### (\* Equal Contribution)
+  <p style="font-size: 8px; margin-top: -1em;">(* Equal Contribution)</p>
 
 - **Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**
 

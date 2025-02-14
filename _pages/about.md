@@ -16,7 +16,8 @@ Publication
 - **Robustly Learning Monotone Generalized Linear Models via Data Augmentation**
 
   Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/abs/2502.08611)
-  (\* Equal Contribution)
+
+  ###### (\* Equal Contribution)
 
 - **Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**
 
@@ -25,7 +26,8 @@ Publication
 - **Robustly Learning Single-Index Models via Alignment Sharpness**
 
   Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
-  (\* Equal Contribution)
+
+  ###### (\* Equal Contribution)
 
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   
@@ -38,7 +40,8 @@ Publication
 - **Robustly Learning a Single Neuron via Sharpness**
   
   **Puqian Wang\*** , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
- (\* Equal Contribution)
+
+  ###### (\* Equal Contribution)
 
 - **Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization**
   

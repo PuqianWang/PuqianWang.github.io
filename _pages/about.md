@@ -27,7 +27,7 @@ Publication
 
   Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, *ICML 2024*, [arxiv](https://arxiv.org/pdf/2402.17756.pdf)
 
-  ###### (\* Equal Contribution)
+  <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
 
 - **Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise**
   
@@ -41,7 +41,7 @@ Publication
   
   **Puqian Wang\*** , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
 
-  ###### (\* Equal Contribution)
+  <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
 
 - **Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization**
   
